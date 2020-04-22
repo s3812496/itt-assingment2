@@ -5,7 +5,7 @@ body{
 
 header{
     background-color: black;
-    padding: 30px;
+    padding: 0px;
     border: 0px;
     margin: 0px;
 }
@@ -20,6 +20,7 @@ nav a, nav a:visited{
     padding: 30px;
     color: white;
     text-decoration: none;
+    display: inline-block;
 }
 
 nav a:hover{
