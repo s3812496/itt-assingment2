@@ -15,7 +15,6 @@ nav{
     text-align: center;
     border: 0px;
     margin: 0px;
-    position: sticky;
 }
 
 nav a, nav a:visited{
@@ -37,22 +36,4 @@ div{
 
 h1, h2, h3, h4{
     padding: 5px;
-}
-.team_heading{
-margin: 0px;
-padding: 30px;
-border: 0px;
-text-align: center;
-margin: 0px;
-background-color: rgba(0, 0, 0, 0.76);
-color: gold;
-opacity: 90%;
-}
-
-.it_tech_para{
-    margin-left: auto;
-    margin-right: auto;
-}
-.it_heading{
-    text-align: center;
 }
