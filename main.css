@@ -47,3 +47,11 @@ margin: 0px;
 background-color: rgba(0, 0, 0, 0.76);
 color: gold;
 }
+
+.it_tech_para{
+    margin-left: auto;
+    margin-right: auto;
+}
+.it_heading{
+    text-align: center;
+}
