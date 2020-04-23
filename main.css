@@ -15,6 +15,7 @@ nav{
     text-align: center;
     border: 0px;
     margin: 0px;
+    position: sticky;
 }
 
 nav a, nav a:visited{
