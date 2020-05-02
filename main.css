@@ -62,3 +62,7 @@ h4 {
 .it_heading {
     text-align: center;
 }
+
+img{
+    object-position: center;
+}
