@@ -1,6 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
+    background-color: rgb(192, 192, 192);
 }
 
 header {
@@ -34,7 +35,10 @@ div {
     margin-right: 15%;
     margin-top: 80px;
     text-align: left;
+    background-color: white;
+    padding: 60px;
 }
+
 
 h1,
 h2,
@@ -61,8 +65,4 @@ h4 {
 
 .it_heading {
     text-align: center;
-}
-
-img{
-    object-position: center;
 }
