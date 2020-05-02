@@ -1,9 +1,9 @@
-body{
+body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
-header{
+header {
     background-color: black;
     padding: 0px;
     border: 0px;
@@ -11,56 +11,54 @@ header{
     opacity: 100%;
 }
 
-nav{
+nav {
     text-align: center;
     border: 0px;
     margin: 0px;
 }
 
-nav a, nav a:visited{
+nav a,
+nav a:visited {
     padding: 30px;
     color: white;
     text-decoration: none;
     display: inline-block;
 }
 
-nav a:hover{
+nav a:hover {
     background-color: darkgray;
 }
 
-div{
+div {
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 80px;
-}
-
-h1, h2, h3, h4{
-    padding: 5px;
-}
-.team_heading{
-margin: 0px;
-padding: 30px;
-border: 0px;
-text-align: center;
-margin: 0px;
-background-color: rgba(0, 0, 0, 0.76);
-color: gold;
-opacity: 90%;
-}
-
-.it_tech_para{
-    margin-left: auto;
-    margin-right: auto;
-}
-.it_heading{
-    text-align: center;
-}
-
-.zaman_header{
-    text-align: center;
-}
-
-.az_para{
     text-align: left;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    padding: 5px;
+}
+
+.team_heading {
+    margin: 0px;
+    padding: 30px;
+    border: 0px;
+    text-align: center;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.76);
+    color: gold;
+    opacity: 90%;
+}
+
+.it_tech_para {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.it_heading {
+    text-align: center;
+}
