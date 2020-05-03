@@ -39,6 +39,15 @@ div {
     padding: 60px;
 }
 
+a, a:visited{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    color: black;
+}
+
 
 h1,
 h2,
